@@ -1,4 +1,3 @@
 rootProject.name = 'JavaBase'
-include 'rxjava'
 include 'java'
-
+include 'rxjava'
